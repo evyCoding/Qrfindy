@@ -1,4 +1,10 @@
 from Module import *
 
-root = Qrfindy()
+root = tk.Tk()
+obj = Tkfont()
+firstWind(root)
+
+
+
+
 root.mainloop()
